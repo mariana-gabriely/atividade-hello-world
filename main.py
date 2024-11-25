@@ -1,5 +1,5 @@
 def imprimir_mensagem():
-    print("Mensagem personalizada")
+    print("Olá")
 
 print("Hello, World!")
 imprimir_mensagem()
