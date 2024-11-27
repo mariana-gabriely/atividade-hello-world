@@ -7,5 +7,5 @@ def soma(a, b):
 print("Hello, World!")
 imprimir_mensagem()
 
-resultado = soma(3, 5)
+resultado = soma(5, 10)
 print(f"A soma é: {resultado}")
